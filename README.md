@@ -1,73 +1,53 @@
-# Welcome to your Lovable project
+# 🎉 Virtual Cake Party 🍰
 
-## Project info
+> A magical, animated, and emotionally connected virtual celebration space to celebrate birthdays with family and friends—especially when you’re far apart.
 
-**URL**: https://lovable.dev/projects/965793d7-9f84-4475-b71f-091337879c03
+🪄 Project Vision
 
-## How can I edit this code?
+In a world where most students and professionals live away from their families, Virtual Cake Party is built to bridge that emotional distance. It's more than an app—it's a virtual hug, a celebration room, a cake shared across borders.
 
-There are several ways of editing your application.
+ ✨ Features
 
-**Use Lovable**
+- 🎂 Animated Virtual Cake  with interactive slicing
+- 🧑‍🤝‍🧑  VIP Guest Addition** with emojis and motion
+- 👐 AI Hand Gesture Detection** to simulate real-world interactions (like cake cutting)
+- 💫  Celebration Effects** like balloons, sparkles, and party icons
+- 🌈  Doodle/Cartoon Style UI  with Tailwind CSS & React animations
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/965793d7-9f84-4475-b71f-091337879c03) and start prompting.
+ 💻 Tech Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+| Category | Tech |
+|---------|------|
+| Frontend | React, TypeScript, Tailwind CSS, Vite |
+| UI Components | Lucide Icons, Custom Shadcn UI |
+| Animations | CSS Animations, Pulse, Bounce, Spin |
+| Gesture Detection | OpenCV.js / MediaPipe (Planned) |
+| Hosting | GitHub Pages (planned) |
 
-**Use your preferred IDE**
+## 🧠 My Logic & Build Process
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+This app is handcrafted from scratch, with:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 🎨 Componentized Design** using React & Tailwind
+- 🧩 Modular structure with reusable Cards, Buttons, Inputs
+- 🎯 Random emoji & positions to simulate a playful, joyful environment
+- 📸 Gesture mode planned to simulate hand-driven actions
+- 🛠️ Clean folder structure for scalability
 
-Follow these steps:
+👤 About me
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Hi, I'm **Krishianjan Lanka** — an AI/ML enthusiast and full-stack developer. I created this project to express how technology can bridge emotional gaps.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+"Even from miles away, a cake slice, a guest, or a spark can still make someone feel loved."
 
-# Step 3: Install the necessary dependencies.
-npm i
+Let’s make virtual celebrations feel *just as special as real ones 💜
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+
+
+## 🚀 Running Locally
+
+```bash
+git clone https://github.com/krishianjan/virtual-cake-party.git
+cd virtual-cake-party
+npm install
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/965793d7-9f84-4475-b71f-091337879c03) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
