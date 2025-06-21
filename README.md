@@ -1,5 +1,5 @@
 # 🎉 EmotiVerse
-“Celebrate Emotions in a Virtual Universe” 🍰
+“Celebrate Emotions in a Fashion Virtual Universe” 🍰
 
 > A magical, animated, and emotionally connected virtual celebration space to celebrate birthdays with family and friends—especially when you’re far apart.
 
