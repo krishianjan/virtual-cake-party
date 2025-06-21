@@ -3,6 +3,8 @@
 
 > A magical, animated, and emotionally connected virtual celebration space to celebrate birthdays with family and friends—especially when you’re far apart.
 
+https://github.com/krishianjan/virtual-cake-party/blob/main/vitual_maker.gif
+
 🪄 Project Vision
 
 In a world where most students and professionals live away from their families, Virtual Cake Party is built to bridge that emotional distance. It's more than an app—it's a virtual hug, a celebration room, a cake shared across borders.
